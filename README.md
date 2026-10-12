@@ -2,7 +2,7 @@
 
 Mimo is a tiny pixel cat that sits in the corner of your screen and keeps you company while you focus.
 
-**Website:** https://hellomimo.vercel.app
+**Website:** https://focuswithmimo.vercel.app
 
 ## Download
 
